@@ -1,0 +1,6 @@
+$ git config --global user.name "Your Name"
+$ git config --global user.email "you@example.com"
+$git clone
+$git add .
+$git commit -m "message here"
+git push -u origin master
